@@ -1,0 +1,32 @@
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\bin\Debug\net6.0-windows\Presupuesto Hospital.exe
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\bin\Debug\net6.0-windows\Presupuesto Hospital.deps.json
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\bin\Debug\net6.0-windows\Presupuesto Hospital.runtimeconfig.json
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\bin\Debug\net6.0-windows\Presupuesto Hospital.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\bin\Debug\net6.0-windows\Presupuesto Hospital.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\Presupuesto_Hospital.Form1.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\Presupuesto Hospital.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\Presupuesto Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\Presupuesto Hospital.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\Presupuesto Hospital.AssemblyInfo.cs
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\Presupuesto Hospital.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\Presupuesto Hospital.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\refint\Presupuesto Hospital.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\Presupuesto Hospital.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\Presupuesto Hospital.genruntimeconfig.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\Presupuesto Hospital\obj\Debug\net6.0-windows\ref\Presupuesto Hospital.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\bin\Debug\net6.0-windows\Presupuesto Hospital.exe
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\bin\Debug\net6.0-windows\Presupuesto Hospital.deps.json
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\bin\Debug\net6.0-windows\Presupuesto Hospital.runtimeconfig.json
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\bin\Debug\net6.0-windows\Presupuesto Hospital.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\bin\Debug\net6.0-windows\Presupuesto Hospital.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\Presupuesto_Hospital.Form1.resources
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\Presupuesto Hospital.csproj.GenerateResource.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\Presupuesto Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\Presupuesto Hospital.AssemblyInfoInputs.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\Presupuesto Hospital.AssemblyInfo.cs
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\Presupuesto Hospital.csproj.CoreCompileInputs.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\Presupuesto Hospital.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\refint\Presupuesto Hospital.dll
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\Presupuesto Hospital.pdb
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\Presupuesto Hospital.genruntimeconfig.cache
+C:\Users\jorle\OneDrive\Escritorio\ejercicio gamaliel\InterfazGrafica_Ejercicio5\obj\Debug\net6.0-windows\ref\Presupuesto Hospital.dll
